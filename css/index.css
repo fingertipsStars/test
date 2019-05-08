@@ -1,0 +1,136 @@
+.top{
+   
+    width:100%;
+    height:350px;
+    background-color:#fff;
+   
+}
+
+.img{
+    /* position: absolute;
+    top:50px; */
+    width:100%;
+    height:70%
+   
+}
+
+.img img{
+    width:100%;
+    height:100%;
+}
+
+.imgFloat{
+    position:absolute;
+    top:100px;
+    width:100%;
+    height:200px;
+    text-align:center;
+}
+
+.imgFloat img{
+    width:95%;
+    height:100%;
+   /* box-shadow:0px -20px 5px rgba(43, 146, 253, 0.9);
+   webkit-box-shadow:0px -20px 5px rgba(43, 146, 253, 0.9);
+   moz-box-shadow:0px -20px 5px rgba(43, 146, 253, 0.9);
+   o-box-shadow:0px -20px 5px rgba(43, 146, 253, 0.9); */
+ 
+}
+
+.money{
+    position:absolute;
+    top:20px;
+    left:50%;
+    transform: translate(-50%,0);
+    color:#fff;
+}
+
+.expect{
+    font-size:20px;
+}
+
+.max{
+    margin-top:20px;
+    font-size:14px;
+}
+
+.limit{
+    margin-top:20px;
+    font-size:32px;
+}
+
+.step {
+    width:100%;
+    height:150px;
+    background-color: #fff;
+    margin-top:10px;
+}
+
+.title{
+    width:100%;
+    height:40px;
+    font-size:24px;
+    line-height: 40px;
+    border-bottom:2px solid #f6f6f6;
+}
+
+
+
+.title span{
+    display: block;
+    width:90%;
+    margin:0 auto;
+}
+
+
+.stepIcon{
+    width:100%;
+    margin-top:20px;
+}
+
+.iconImg{
+    width:90%;
+    margin:0 auto;
+}
+
+.iconImg img{
+    width:100%;
+}
+
+.apply{
+    width:100%;
+    height:30%;
+    background-color: #fff;
+}
+
+.topImg{
+    width:100%;
+
+}
+
+.topImg img{
+    width:100%;
+}
+
+.btn{
+    width:100%;
+    text-align: center;
+    margin-top:30px;
+    margin-bottom:50px;
+   
+}
+
+.btn span{
+    display: inline-block;
+    width:60%;
+    height:55px;
+    line-height: 55px;
+    border-radius:30px;
+    font-size:24px;
+    color:#fff;
+    background: -moz-linear-gradient(left, #0c8af9 0%, #0161d9 100%);
+    background: -webkit-linear-gradient(left, #0c8af9 0%,#0161d9 100%);
+    background: -o-linear-gradient(left, #0c8af9 0%,#0161d9 100%);
+    background: -ms-linear-gradient(left, #0c8af9 0%,#0161d9 100%);
+    background: linear-gradient(to right, #0c8af9 0%,#0161d9 100%);
+}
